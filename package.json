@@ -27,7 +27,8 @@
     "broccoli-funnel": "^1.2.0",
     "broccoli-merge-trees": "^2.0.0",
     "ember-cli-babel": "^6.0.0",
-    "fastboot-transform": "^0.1.1"
+    "fastboot-transform": "^0.1.1",
+    "webfontloader": "1.6.28"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
@@ -48,8 +49,7 @@
     "ember-resolver": "^4.0.0",
     "ember-source": "~2.13.0",
     "ember-welcome-page": "^3.0.0",
-    "loader.js": "^4.2.3",
-    "webfontloader": "1.6.28"
+    "loader.js": "^4.2.3"
   },
   "engines": {
     "node": ">= 4"
